@@ -24,4 +24,4 @@
 | No. | 진행 과정 | github | 과제 | github | Notion |
 | :--- | :--- | :---:| :--- | :---: |  :---: |
 | 01 | 손글씨 이미지분류| [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Digits.ipynb)| 가위바위보 이미지분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Assignment1_rps.ipynb) |  |
-| 02 | Iris 품종 분류 |  | 여러가지 Dataset으로 분류 |  |
+| 02 | Iris 품종 분류 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_DecisionTree.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_OtherModel_ConfusionMatrix.ipynb) | 여러가지 Dataset으로 분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Assignment_Classifications.ipynb) |
