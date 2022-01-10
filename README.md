@@ -17,7 +17,7 @@
 | 10 | 다양한 데이터 전처리 기법 |  |  |
 | 11 | 데이터를 한눈에! Visualization |  |  |
 | 12 | 사이킷런으로 구현해 보는 머신러닝 |  |  |
-| 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 |  |  |
+| 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund13_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.ipynb) |  |
 
 
 ## Exploration 
