@@ -27,5 +27,7 @@
 | :--- | :--- | :---:| :--- | :---: |  :---: |
 | 01 | 손글씨 이미지분류| [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Digits.ipynb)| 가위바위보 이미지분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Assignment1_rps.ipynb) |  |
 | 02 | Iris 품종 분류 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_DecisionTree.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_OtherModel_ConfusionMatrix.ipynb) | 여러가지 Dataset으로 분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Assignment_Classifications.ipynb) |
-| 03 | 카메라 스티커앱 만들기 |  |  | | |
+| 03 | 카메라 스티커앱 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_CameraStickerApp.ipynb)  | 고양이수염 붙이기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_Assignment_CatWiskers.ipynb) | |
 | 04 | 작사가 인공지능 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_LyricistAI.ipynb) |  | | |
+
+
