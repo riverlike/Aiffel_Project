@@ -20,6 +20,7 @@
 | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund13_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.ipynb) |  |
 | 14 | 나는 멍멍이 상이니, 아니면 냥이 상이니?  | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A91.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A92.ipynb) [3](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A93.ipynb)  |  | 
 | 15 | 전설의 포켓몬 찾아 삼만리 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund15_Tabular%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B0%8F%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |  |
+| 16 | 파이썬으로 이미지 파일 다루기 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund16_OpenCV%ED%99%9C%EC%9A%A91.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund16_OpenCV%ED%99%9C%EC%9A%A92.ipynb) |  |
 
 
 ## Exploration 
