@@ -21,7 +21,11 @@
 | 14 | 나는 멍멍이 상이니, 아니면 냥이 상이니?  | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A91.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A92.ipynb) [3](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund14_%EC%A0%84%EC%9D%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%ED%99%9C%EC%9A%A93.ipynb)  |  
 | 15 | 전설의 포켓몬 찾아 삼만리 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund15_Tabular%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B0%8F%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) |  
 | 16 | 파이썬으로 이미지 파일 다루기 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund16_OpenCV%ED%99%9C%EC%9A%A91.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund16_OpenCV%ED%99%9C%EC%9A%A92.ipynb) |  
-
+| 17 | 딥러닝과 신경망의 본질 |  |
+| 18 | 딥러닝 들여다보기 |  |
+| 19 | 선형 회귀와 로지스틱 회귀 |  |
+| 20 | 비지도학습 |  |
+| 21 | TF2 API 개요 | |
 
 ## Exploration 
 | No. | 진행 과정 | github | 과제 | github | 
@@ -32,6 +36,7 @@
 | 04 | 작가 인공지능 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_LyricistAI.ipynb) | 작사가 인공지능 만들기 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_Assignment_LyricistAI.ipynb) | 
 | 05 | 캐글 따라하기 |[1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice1.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice2.ipynb) | 캐글 실전-집값예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Assignment_Kaggle.ipynb) |  
 | 06 | 영화리뷰분석 | | 네이버 영화리뷰 분류  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp06/Exp06_Assignment_MovieReview.ipynb) |  
-
+| 07 | 인물사진을 만들어 보자 | || |
+| 08 | 뉴스 요약봇 만들기 | || |
 
 
