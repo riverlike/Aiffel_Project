@@ -25,7 +25,7 @@
 | 18 | 딥러닝 들여다보기 |  |
 | 19 | 선형 회귀와 로지스틱 회귀 |  |
 | 20 | 비지도학습 |  |
-| 21 | TF2 API 개요 | |
+| 21 | TF2 API 개요 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Fundamental/Fund21_TensorflowAPI%EB%B9%84%EA%B5%90.ipynb) |
 
 ## Exploration 
 | No. | 진행 과정 | github | 과제 | github | 
