@@ -36,7 +36,7 @@
 | 04 | 작가 인공지능 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_LyricistAI.ipynb) | 작사가 인공지능 만들기 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_Assignment_LyricistAI.ipynb) | 
 | 05 | 캐글 따라하기 |[1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice1.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice2.ipynb) | 캐글 실전-집값예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Assignment_Kaggle.ipynb) |  
 | 06 | 영화리뷰분석 | | 네이버 영화리뷰 분류  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp06/Exp06_Assignment_MovieReview.ipynb) |  
-| 07 | 인물사진을 만들어 보자 | || |
+| 07 | 인물사진모드 | | 인물사진모드 응용 및 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp07/Exp07_Assignment_HumanSegmentation.ipynb) |
 | 08 | 뉴스 요약봇 만들기 | || |
 
 
