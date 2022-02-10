@@ -38,5 +38,6 @@
 | 06 | 영화리뷰분석 | | 네이버 영화리뷰 분류  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp06/Exp06_Assignment_MovieReview.ipynb) |  
 | 07 | 인물사진모드 | | 인물사진모드 응용 및 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp07/Exp07_Assignment_HumanSegmentation.ipynb) |
 | 08 | 아마존 리뷰  | |뉴스 요약봇 만들기|[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp08/Exp08_NewsSummarization.ipynb) |
+| 09 | 폐렴 진단 모델  | | 폐렴 진단 모델 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp09/Exp09_Assignment_Pneumonia.ipynb) |
 
 
