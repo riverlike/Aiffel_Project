@@ -15,7 +15,11 @@
 | 08 | 아마존 리뷰  | |뉴스 요약봇 만들기|[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp08/Exp08_NewsSummarization.ipynb) |
 | 09 | 폐렴 진단 모델  | | 폐렴 진단 모델 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp09/Exp09_Assignment_Pneumonia.ipynb) |
 | 10 | 패션 이미지 생성  | | GAN을 이용한 이미지 생성 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp10/Exp10_Assignment_GAN_Cifar10.ipynb) |
-| 11 | 시계열 예측하기  | | 삼성 주식 예측 도전 | |
+| 11 | 시계열 예측하기  | | 주식 예측 도전 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp11/Exp11_Assignment_StockPredictions.ipynb) |
+| 12 | 챗봇 만들기  | | 우리말 챗봇 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp12/Exp12_Assignment_KoreanChatbot.ipynb)|
+| 13 |  BERT를 이용한 질문답변 | | 퀴즈 정답예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp13/Exp13_Assignment_BERT_QA.ipynb)|
+| 14 | 음악 추천 시스템  | | 영화 추천 시스템 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp14/Exp14_Assinment_MovieRecommendation.ipynb) |
+| 15 |   | |  | |
 
 ## Fundamental
 | No. | 진행 과정 | github |
