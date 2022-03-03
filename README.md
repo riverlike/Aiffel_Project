@@ -19,7 +19,8 @@
 | 12 | 챗봇 만들기  | | 우리말 챗봇 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp12/Exp12_Assignment_KoreanChatbot.ipynb)|
 | 13 |  BERT를 이용한 질문답변 | | 퀴즈 정답예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp13/Exp13_Assignment_BERT_QA.ipynb)|
 | 14 | 음악 추천 시스템  | | 영화 추천 시스템 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp14/Exp14_Assinment_MovieRecommendation.ipynb) |
-| 15 |   | |  | |
+| 15 | 문자인식OCR  | | 노년층을 위한 문자인식 시스템 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp15/Exp15_Assignment_OCR_Medicine.ipynb)|
+
 
 ## Fundamental
 | No. | 진행 과정 | github |
