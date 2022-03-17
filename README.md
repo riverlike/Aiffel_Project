@@ -1,9 +1,15 @@
 
 # AIFFEL LMS 및 프로젝트 목록 ( 2021.12.27 ~ 2022.06.10) 
 
+## Going Deeper
+| No. | 진행 과정 | link | 과제 | link | 
+| :--- | :--- | :---:| :--- | :---: | 
+| 01 | 텍스트 데이터 다루기  | | -  | |
+| 02 |  단어사전 만들기 | |  네이버 영화리뷰 분류2  | |
+| 03 |   | |   | |
 
 ## Exploration 
-| No. | 진행 과정 | github | 과제 | github | 
+| No. | 진행 과정 | link | 과제 | link | 
 | :--- | :--- | :---:| :--- | :---: | 
 | 01 | 손글씨 이미지분류| [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Digits.ipynb)| 가위바위보 이미지분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Assignment1_rps.ipynb) |  
 | 02 | Iris 품종 분류 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_DecisionTree.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_OtherModel_ConfusionMatrix.ipynb) | 여러가지 Dataset으로 분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Assignment_Classifications.ipynb) |
@@ -20,11 +26,12 @@
 | 13 |  BERT를 이용한 질문답변 | | 퀴즈 정답예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp13/Exp13_Assignment_BERT_QA.ipynb)|
 | 14 | 음악 추천 시스템  | | 영화 추천 시스템 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp14/Exp14_Assinment_MovieRecommendation.ipynb) |
 | 15 | 문자인식OCR  | | 노년층을 위한 문자인식 시스템 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp15/Exp15_Assignment_OCR_Medicine.ipynb)|
-| 16 | 상품추천 시스템  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/data/parallel_minibatch.png)| 영화 추천 시스템2 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/Exp16_Assignment_MovieRecommendation2.ipynb) |
-| 17 |   | | | |
+| 16 | 상품 추천 시스템  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/data/parallel_minibatch.png)| 영화 추천 시스템2 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/Exp16_Assignment_MovieRecommendation2.ipynb) |
+| 17 | GAN을 이용한 이미지 채색  | | Pix2Pix 이미지 변환 모델 구현 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp17/Exp17_Assignment_SegmentationMap_10_final.ipynb) |
+
 
 ## Fundamental
-| No. | 진행 과정 | github |
+| No. | 진행 과정 | link |
 | :--- | :--- | :---: | 
 | 01 | Ready to go? |  |
 | 02 | 인공지능 개발자가 되기 위한 위대한 첫 걸음 |  |  
