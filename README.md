@@ -5,9 +5,9 @@
 | No. | 진행 과정 | link | 과제 | link | 
 | :--- | :--- | :---:| :--- | :---: | 
 | 01 | 텍스트 데이터 다루기  | | -  | |
-| 02 |  단어사전 만들기 | |  네이버 영화리뷰 분류2  | |
+| 02 |  단어사전 만들기 | |  네이버 영화리뷰 분류2  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp02/NLP02_Assignment_MovieReview2_final.ipynb) |
 | 03 | 텍스트의 분포로 벡터화 하기  | |   | |
-| 04 | 뉴스 카테고리 다중분류 - 모델별 성능비교 | | 뉴스 카테고리 다중분류-데이터셋에따른 성능비교 | |
+| 04 | 뉴스 카테고리 다중분류 - 모델별 성능비교 | | 뉴스 카테고리 다중분류-데이터셋에따른 성능비교 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp04/NLP04_Assignment_NewsClassifier.ipynb) |
 | 05 |   | |   | |
 
 
