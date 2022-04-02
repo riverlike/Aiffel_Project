@@ -8,7 +8,7 @@
 | 02 |  단어사전 만들기 | |  네이버 영화리뷰 분류2  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp02/NLP02_Assignment_MovieReview2_final.ipynb) | SentencePiece 토큰화화, Mecab과 비교 |
 | 03 | 텍스트의 분포로 벡터화 하기  | |   | | DTM, TF-IDF, LSA, LDA |
 | 04 | 뉴스 카테고리 다중분류 - 모델별 성능비교 | | 뉴스 카테고리 다중분류-데이터셋에따른 성능비교 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp04/NLP04_Assignment_NewsClassifier.ipynb) | sklearn, Vocabulary size별성능 |
-| 05 | 워드 임베딩  | |   | Word2Vec, FastText, Glove|
+| 05 | 워드 임베딩  | |   | |Word2Vec, FastText, Glove|
 | 06 | 임베딩 내 편향성 알아보기  | | 영화 장르별 편향성 측정  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp06/NLP06_Assignment_WEAT_final.ipynb)|Word2Vec, TF-IDF, WEAT Score|
 | 07 | Seq2seq와 Attention  | |   | |Bahdanau Attention, Luong Attention |
 | 08 | Seq2seq으로 번역기 만들기  | |  한영 번역기 | | Attention, Seq2Seq |
