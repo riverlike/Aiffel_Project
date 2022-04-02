@@ -5,7 +5,7 @@
 | No. | 진행 과정 | 과제 | link |  contents |
 | :--- | :--- | :--- | :---: | :--- |
 | 01 | 텍스트 데이터 다루기  |   | | 전처리, 토큰화 |
-| 02 |  단어사전 만들기 |  네이버 영화리뷰 분류2  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp02/NLP02_Assignment_MovieReview2_final.ipynb) | SentencePiece 토큰화화, Mecab과 비교 |
+| 02 |  단어사전 만들기 |  네이버 영화리뷰 분류2  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp02/NLP02_Assignment_MovieReview2_final.ipynb) | SentencePiece 토큰화, Mecab과 비교 |
 | 03 | 텍스트의 분포로 벡터화 하기  |    | | DTM, TF-IDF, LSA, LDA |
 | 04 | 뉴스 카테고리 다중분류  |  뉴스 카테고리 다중분류 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp04/NLP04_Assignment_NewsClassifier.ipynb) | sklearn, Vocabulary size별성능 |
 | 05 | 워드 임베딩  |   | |Word2Vec, FastText, Glove|
