@@ -13,25 +13,25 @@
 
 
 ## Exploration 
-| No. | 진행 과정 | link | 과제 | link | 
-| :--- | :--- | :---:| :--- | :---: | 
-| 01 | 손글씨 이미지분류| [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Digits.ipynb)| 가위바위보 이미지분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Assignment1_rps.ipynb) |  
-| 02 | Iris 품종 분류 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_DecisionTree.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_OtherModel_ConfusionMatrix.ipynb) | 여러가지 Dataset으로 분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Assignment_Classifications.ipynb) |
-| 03 | 카메라 스티커앱 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_CameraStickerApp.ipynb)  | 고양이수염 붙이기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_Assignment_CatWiskers.ipynb) | 
-| 04 | 작가 인공지능 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_LyricistAI.ipynb) | 작사가 인공지능 만들기 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_Assignment_LyricistAI.ipynb) | 
-| 05 | 캐글 따라하기 |[1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice1.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice2.ipynb) | 캐글 실전-집값예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Assignment_Kaggle.ipynb) |  
+| No. | 진행 과정 | link | 과제 | link | contents |
+| :--- | :--- | :---:| :--- | :---: | :--- |
+| 01 | 손글씨 이미지분류| [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Digits.ipynb)| 가위바위보 이미지분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp01/Exp01_Assignment1_rps.ipynb) |   |
+| 02 | Iris 품종 분류 | [1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_DecisionTree.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Iris_OtherModel_ConfusionMatrix.ipynb) | 여러가지 Dataset으로 분류 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp02/Exp02_Assignment_Classifications.ipynb) | |
+| 03 | 카메라 스티커앱 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_CameraStickerApp.ipynb)  | 고양이수염 붙이기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp03/Exp03_Assignment_CatWiskers.ipynb) |  |
+| 04 | 작가 인공지능 만들기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_LyricistAI.ipynb) | 작사가 인공지능 만들기 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp04/Exp04_Assignment_LyricistAI.ipynb) |  |
+| 05 | 캐글 따라하기 |[1](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice1.ipynb) [2](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Kaggle_HousePrice2.ipynb) | 캐글 실전-집값예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp05/Exp05_Assignment_Kaggle.ipynb) |   |
 | 06 | 영화리뷰분석 | | 네이버 영화리뷰 분류  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp06/Exp06_Assignment_MovieReview.ipynb) |  
-| 07 | 인물사진모드 | | 인물사진모드 응용 및 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp07/Exp07_Assignment_HumanSegmentation.ipynb) |
+| 07 | 인물사진모드 | | 인물사진모드 응용 및 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp07/Exp07_Assignment_HumanSegmentation.ipynb) | |
 | 08 | 아마존 리뷰  | |뉴스 요약봇 만들기|[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp08/Exp08_NewsSummarization.ipynb) |
-| 09 | 폐렴 진단 모델  | | 폐렴 진단 모델 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp09/Exp09_Assignment_Pneumonia.ipynb) |
-| 10 | 패션 이미지 생성  | | GAN을 이용한 이미지 생성 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp10/Exp10_Assignment_GAN_Cifar10.ipynb) |
-| 11 | 시계열 예측하기  | | 주식 예측 도전 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp11/Exp11_Assignment_StockPredictions.ipynb) |
-| 12 | 챗봇 만들기  | | 우리말 챗봇 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp12/Exp12_Assignment_KoreanChatbot.ipynb)|
-| 13 |  BERT를 이용한 질문답변 | | 퀴즈 정답예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp13/Exp13_Assignment_BERT_QA.ipynb)|
-| 14 | 음악 추천 시스템  | | 영화 추천 시스템 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp14/Exp14_Assinment_MovieRecommendation.ipynb) |
-| 15 | 문자인식OCR  | | 노년층을 위한 문자인식 시스템 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp15/Exp15_Assignment_OCR_Medicine.ipynb)|
-| 16 | 상품 추천 시스템  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/data/parallel_minibatch.png)| 영화 추천 시스템2 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/Exp16_Assignment_MovieRecommendation2.ipynb) |
-| 17 | GAN을 이용한 이미지 채색  | | Pix2Pix 이미지 변환 모델 구현 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp17/Exp17_Assignment_SegmentationMap_10_final.ipynb) |
+| 09 | 폐렴 진단 모델  | | 폐렴 진단 모델 개선하기 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp09/Exp09_Assignment_Pneumonia.ipynb) | |
+| 10 | 패션 이미지 생성  | | GAN을 이용한 이미지 생성 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp10/Exp10_Assignment_GAN_Cifar10.ipynb) |  |
+| 11 | 시계열 예측하기  | | 주식 예측 도전 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp11/Exp11_Assignment_StockPredictions.ipynb) |  |
+| 12 | 챗봇 만들기  | | 우리말 챗봇 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp12/Exp12_Assignment_KoreanChatbot.ipynb)|  |
+| 13 |  BERT를 이용한 질문답변 | | 퀴즈 정답예측 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp13/Exp13_Assignment_BERT_QA.ipynb)|  |
+| 14 | 음악 추천 시스템  | | 영화 추천 시스템 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp14/Exp14_Assinment_MovieRecommendation.ipynb) |  |
+| 15 | 문자인식OCR  | | 노년층을 위한 문자인식 시스템 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp15/Exp15_Assignment_OCR_Medicine.ipynb)|  |
+| 16 | 상품 추천 시스템  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/data/parallel_minibatch.png)| 영화 추천 시스템2 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp16/Exp16_Assignment_MovieRecommendation2.ipynb) |  |
+| 17 | GAN을 이용한 이미지 채색  | | Pix2Pix 이미지 변환 모델 구현 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/Exploration/Exp17/Exp17_Assignment_SegmentationMap_10_final.ipynb) |  |
 
 
 ## Fundamental
