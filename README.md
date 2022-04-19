@@ -11,8 +11,15 @@
 | 05 | 워드 임베딩  |   | |Word2Vec, FastText, Glove|
 | 06 | 임베딩 내 편향성 알아보기  | 영화 장르별 편향성 측정  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp06/NLP06_Assignment_WEAT_final.ipynb)|Word2Vec, TF-IDF, WEAT Score|
 | 07 | Seq2seq와 Attention  |   | |Bahdanau Attention, Luong Attention |
-| 08 | Seq2seq으로 번역기 만들기  |  한영 번역기 | | Attention, Seq2Seq |
-
+| 08 | Seq2seq으로 번역기 만들기 | 한영 번역기  |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp08/NLP08_Assignment_Translation_final.ipynb)  | Attention, Seq2Seq|
+| 09 | Transformer가 나오기까지 |   | |Transformer 구조, 내부 모듈 |
+| 10 | Transformer로 번역기 만들기 |  한영 번역기2 |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp10/NLP10_Assinment_Translation2_final.ipynb) | Transformer, SentencePiece, 어텐션 시각화|
+| 11 | 기계번역 |   | |Data Augmentation, 번역 평가 지표 |
+| 12 | 영어스페인어 번역 | 챗봇   |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp12/NLP12_Assignment_Chatbot2_final.ipynb) | Data Augmentation, Blue Score|
+| 13 | NLP Trends |   | | ERNIE, Switch Transformer, T5, ALBERT |
+| 14 | BERT pretrained model 만들기 |  mini BERT  | | 1M BERT, MLM, NSP  |
+| 15 | NLP Framework |   | | Huggingface transformers|
+| 16 |  |   | | |
 
 
 ## Exploration 
