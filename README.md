@@ -17,9 +17,9 @@
 | 11 | 기계번역 |   | |Data Augmentation, 번역 평가 지표 |
 | 12 | 영어스페인어 번역 | 챗봇   |[link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp12/NLP12_Assignment_Chatbot2_final.ipynb) | Data Augmentation, Blue Score|
 | 13 | NLP Trends |   | | ERNIE, Switch Transformer, T5, ALBERT |
-| 14 | BERT pretrained model 만들기 |  mini BERT  | | 1M BERT, MLM, NSP  |
+| 14 | BERT pretrained model 만들기 |  mini BERT  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp14/NLP14_Assignment_MiniBERT_final.ipynb)| 1M BERT, MLM, NSP  |
 | 15 | NLP Framework |   | | Huggingface transformers|
-| 16 |  |   | | |
+| 16 | HuggingFace  |  HuggingFace 커스텀 프로젝트 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp16/NLP16_Assignment_HuggingFaceMNLI.ipynb)| |
 
 
 ## Exploration 
