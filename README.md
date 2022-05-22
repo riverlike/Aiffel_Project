@@ -19,7 +19,7 @@
 | 13 | NLP Trends |   | | ERNIE, Switch Transformer, T5, ALBERT |
 | 14 | BERT pretrained model 만들기 |  mini BERT  | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp14/NLP14_Assignment_MiniBERT_final.ipynb)| 1M BERT, MLM, NSP  |
 | 15 | NLP Framework |   | | Huggingface transformers|
-| 16 | HuggingFace  |  HuggingFace 커스텀 프로젝트 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp16/NLP16_Assignment_HuggingFaceMNLI.ipynb)| |
+| 16 | HuggingFace  |  HuggingFace 커스텀 프로젝트 | [link](https://github.com/riverlike/Aiffel_Project/blob/main/GoingDeeper/nlp16/NLP16_Assignment_HuggingFaceMNLI.ipynb)|MRPC, MNLI  |
 
 
 ## Exploration 
